@@ -92,4 +92,5 @@ func main() {
 	if gtcFilePath != "" {
 		beautifier(gtcFilePath, formattedFileName)
 	}
+
 }
